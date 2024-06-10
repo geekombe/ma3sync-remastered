@@ -9,7 +9,6 @@ function handleBookClick(){
 const Hero = () => (
   <>
   <div className="text-center hero my-5">
-    // <h1 className="mb-4">MA3SYNC</h1>
     <p className="lead">
             Efficiently handle your daily 
             commutes or occasional travels with ease.
